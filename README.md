@@ -6,6 +6,9 @@ A Face Mask Detection tool that detects whether the user is wearing a Mask, not 
 * Validation Accuracy: 94%
 * Training Loss: 5%
 
+## Working
+* [Click Here](https://www.linkedin.com/posts/aryan-felix-815a42193_a-while-back-i-had-taken-part-in-a-discussion-activity-6824385403122921472-0tY0)
+
 ## Steps to Run
 1. Obtain the dataset from the link below.
 2. Train the model by running all the cells in `FaceTraining.ipynb`.
